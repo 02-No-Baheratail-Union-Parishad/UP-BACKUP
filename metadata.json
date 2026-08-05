@@ -1,0 +1,6 @@
+{
+  "name": "০২নং বহেড়াতৈল ইউনিয়ন পরিষদ - স্মার্ট সনদ ও NID স্ক্যানার",
+  "description": "টাঙ্গাইলের সখিপুর উপজেলার ০২নং বহেড়াতৈল ইউনিয়ন পরিষদের AI ভিত্তিক NID স্ক্যানার, স্বয়ংক্রিয় তথ্য পূরণ ও পরিমার্জিত সরকারি বাংলা সনদপত্র জেনারেটর সিস্টেম।",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
